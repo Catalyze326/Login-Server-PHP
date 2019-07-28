@@ -1,0 +1,3 @@
+# Login Server with PHP
+
+This is just a fun little project I did to learn php and make a simple little login server. If you are resuing this code you probably dont want the majority of the files. You really just want mysql.php, backend.php, and login.php. You most likely do not need the rest of the files unless you want users to be able to add more users to the database or any of the other things I am adding.
