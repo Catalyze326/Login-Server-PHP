@@ -1,0 +1,94 @@
+.center {
+    margin: 0 auto;
+    width: 50%;
+    text-align: center;
+  }
+
+  .error{
+      color: red;
+  }
+
+  .success{
+      color: green;
+  }
+  
+  html{
+      background-color: #282828;
+      color: #fff;
+  }
+
+  h3{
+      color: #fff;
+  }
+
+  h5{
+      color: #fff;
+  }
+
+  input{
+    border: none;
+    color: white;
+    background: #282828;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    width: 300px;
+    border-width: 3px;
+    border-radius: 25px;
+    border: 1px solid #fff;
+  }
+  
+  input:hover{
+    background: #fff;
+    border: #fff;
+    border-radius: 25px;
+    color: #282828;
+  }
+
+  a{
+    color: #fff;
+    font-size: 16px;
+    border: none;
+    color: white;
+    background: #282828;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    width: 200px;
+    border-width: 3px;
+    border-radius: 25px;
+    border: 1px solid #fff;
+  }
+
+   a:hover{
+    background: #fff;
+    border: #fff;
+    border-radius: 25px;
+    color: #282828;
+  }
+
+  button{
+    border: none;
+    color: white;
+    background: #282828;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    width: 300px;
+    border-width: 3px;
+    border-radius: 25px;
+    border: 1px solid #fff;
+  }
+  
+  button:hover{
+    background: #fff;
+    border: #fff;
+    border-radius: 25px;
+    color: #282828;
+  }
+  
