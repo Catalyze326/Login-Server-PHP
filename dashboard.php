@@ -16,7 +16,6 @@
     <title>Dashboard</title>
 </head>
 <body>
-    
 
     <?php
         session_start();
@@ -34,8 +33,6 @@
     <div class="center">
         <br><br><br>
         <a href="addUser.php">Add User</a>
-        <br><br>
-        <a href="runCode.php">Run Code</a>
     </div>
 
 
