@@ -21,6 +21,11 @@
             <br><br>
             <input type="text" name="uName" placeholder="User Name">
             <input type="password" name="passwd" placeholder="Password">
+            <?php
+              require_once('recaptchalib.php');
+              $publickey = "6LcbqrAUAAAAANwDw7K-xs6euK7oOmCrFET_FO4E"; 
+              echo recaptcha_get_html($publickey);
+            ?>
             <br><br>
             <button type="submit" name="submit">Login</button>
     </form>
